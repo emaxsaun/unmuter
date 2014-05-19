@@ -1,0 +1,20 @@
+<html>
+<head>
+	<script src="http://p.jwpcdn.com/6/8/jwplayer.js" type="text/javascript"></script>
+	<title>Unmuter</title>
+</head>
+<body>
+	<div id="player"></div>
+	<script type="text/javascript">
+	jwplayer('player').setup({
+		file: 'http://content.bitsontherun.com/videos/bkaovAYt-364766.mp4',
+		image: 'http://assets-jp.jwpsrv.com/thumbs/bkaovAYt-320.jpg',
+		mute: true,
+		plugins: {
+			'unmuter.js': {
+			}
+		}
+	});
+	</script>
+</body>
+</html>
