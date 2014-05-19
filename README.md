@@ -6,7 +6,7 @@ About this Plugin:
 
 A plugin for JW Player. Provides a highly visible "unmute" button for players that are initially muted.
 
-Unmuter was originally created by Tony Boyd. 
+Unmuter was originally created by [Tony Boyd](http://www.outshine.com/).
 
 I updated it to work with JW6, and fixed some minor issues with the plugin.
 
